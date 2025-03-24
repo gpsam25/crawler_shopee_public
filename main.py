@@ -7,7 +7,7 @@ from view.api_v4_get_product_detail import ProductDetailCrawler
 
 import logging
 
-logger = logging.getLogger(__petstimes__)
+logger = logging.getLogger(__name__)
 
 
 class Crawler:
