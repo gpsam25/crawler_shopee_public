@@ -57,23 +57,23 @@ if __name__ == "__main__":
     user_list = [
         {
             "user_info": {
-                "Email": "a0025071@gmail.com",
-                "Name": "Max",
+                "Email": "gpsam25@gmail.com",
+                "Name": "gpsam25",
             },
             "input_shop_names": [
-                "fulinxuan",
-                "pat6116xx",
-                "join800127",
-                "ginilin0982353562",
-                "ru8285fg56",
-                "wangshutung",
-                "taiwan88888",
-                "baoshenfg",
-                "cyf66666",
-                "buddha8888",
-                "dragon9168",
-                "sinhochen77",
-                "jouhsuansu",
+                "petstimes",
+                "moyichou",
+                "q0932504231",
+                "ttjjj1125",
+                "jianshenglianok11",
+                "josephlala",
+                "sic0627",
+                "runningpet",
+                "dogshop.myds",
+                "faynew",
+                "suisatw2021",
+                "alison0806",
+                "petism2021",
             ],
         }
     ]
