@@ -58,7 +58,7 @@ if __name__ == "__main__":
         {
             "user_info": {
                 "Email": "gpsam25@gmail.com",
-                "Name": "gpsam25",
+                "Name": "gpsam",
             },
             "input_shop_names": [
                 "petstimes",
